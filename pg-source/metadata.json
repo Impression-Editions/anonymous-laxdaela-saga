@@ -1,0 +1,22 @@
+{
+  "pg_id": 17803,
+  "fetched_at": "2026-07-16T19:55:46.459207+00:00",
+  "source_url": "https://www.gutenberg.org/cache/epub/17803/pg17803-images.html",
+  "title": "Laxdæla Saga\nTranslated from the Icelandic",
+  "author": "Anonymous",
+  "subjects": [
+    "Sagas -- Translations into English",
+    "PT"
+  ],
+  "files": {
+    "html": "pg-17803-images.html",
+    "epub": null,
+    "illustrations": [
+      "img_01.jpg",
+      "img_02.jpg",
+      "img_03.jpg",
+      "pg17803_cover.jpg",
+      "pg17803_cover_small.jpg"
+    ]
+  }
+}
