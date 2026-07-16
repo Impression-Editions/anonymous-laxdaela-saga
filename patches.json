@@ -1,92 +1,92 @@
 {
   "patches": [
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-20-0\"",
       "replace": "id=\"note-20-1\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-24-0\"",
       "replace": "id=\"note-24-2\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-35-0\"",
       "replace": "id=\"note-35-3\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-37-0\"",
       "replace": "id=\"note-37-4\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-43-0\"",
       "replace": "id=\"note-43-5\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-48-0\"",
       "replace": "id=\"note-48-6\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-55-0\"",
       "replace": "id=\"note-55-7\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-61-0\"",
       "replace": "id=\"note-61-8\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-65-0\"",
       "replace": "id=\"note-65-9\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-20-0\"",
       "replace": "#noteref-20-1\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-24-0\"",
       "replace": "#noteref-24-2\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-35-0\"",
       "replace": "#noteref-35-3\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-37-0\"",
       "replace": "#noteref-37-4\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-43-0\"",
       "replace": "#noteref-43-5\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-48-0\"",
       "replace": "#noteref-48-6\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-55-0\"",
       "replace": "#noteref-55-7\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-61-0\"",
       "replace": "#noteref-61-8\""
     },
     {
-      "file": "endnotes.xhtml",
+      "file": "src/epub/text/endnotes.xhtml",
       "find": "#noteref-65-0\"",
       "replace": "#noteref-65-9\""
     }
