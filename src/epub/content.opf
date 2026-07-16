@@ -18,7 +18,6 @@
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
 		<meta property="a11y:certifiedBy" refines="#conformance-statement">Impression Editions</meta>
 		<meta property="schema:accessMode">textual</meta>
-		<meta property="schema:accessMode">visual</meta>
 		<meta property="schema:accessModeSufficient">textual,visual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
@@ -101,9 +100,16 @@
 		<item href="css/proofreading.css" id="proofreading.css" media-type="text/css"/>
 		<item href="css/se-kobo.css" id="se-kobo.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
+		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="application/vnd.ms-opentype"/>
+		<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="application/vnd.ms-opentype"/>
+		<item href="images/cover.source.jpg" id="cover.source.jpg" media-type="image/jpeg"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
 		<item href="images/img_02.jpg" id="img_02.jpg" media-type="image/jpeg"/>
 		<item href="images/img_03.jpg" id="img_03.jpg" media-type="image/jpeg"/>
+		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
+		<item href="text/about-the-translator.xhtml" id="about-the-translator.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/bjorn-iceland.xhtml" id="bjorn-iceland.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chap-i.xhtml" id="chap-i.xhtml" media-type="application/xhtml+xml"/>
@@ -184,95 +190,46 @@
 		<item href="text/chap-xxxvi.xhtml" id="chap-xxxvi.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chap-xxxvii.xhtml" id="chap-xxxvii.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/chap-xxxviii.xhtml" id="chap-xxxviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 		<item href="text/ketills-family.xhtml" id="ketills-family.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/permissions.xhtml" id="permissions.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
-		<item href="text/about-the-translator.xhtml" id="about-the-translator.xhtml" media-type="application/xhtml+xml"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-			<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="font/woff2"/>
-		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="font/woff2"/>
-		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
 	</manifest>
 	<spine>
 		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="bjorn-iceland.xhtml"/>
 		<itemref idref="chap-i.xhtml"/>
-		<itemref idref="ketills-family.xhtml"/>
 		<itemref idref="chap-ii.xhtml"/>
 		<itemref idref="chap-iii.xhtml"/>
-		<itemref idref="bjorn-iceland.xhtml"/>
 		<itemref idref="chap-iv.xhtml"/>
-		<itemref idref="chap-v.xhtml"/>
-		<itemref idref="chap-vi.xhtml"/>
-		<itemref idref="chap-vii.xhtml"/>
-		<itemref idref="chap-viii.xhtml"/>
 		<itemref idref="chap-ix.xhtml"/>
-		<itemref idref="chap-x.xhtml"/>
-		<itemref idref="chap-xi.xhtml"/>
-		<itemref idref="chap-xii.xhtml"/>
-		<itemref idref="chap-xiii.xhtml"/>
-		<itemref idref="chap-xiv.xhtml"/>
-		<itemref idref="chap-xv.xhtml"/>
-		<itemref idref="chap-xvi.xhtml"/>
-		<itemref idref="chap-xvii.xhtml"/>
-		<itemref idref="chap-xviii.xhtml"/>
-		<itemref idref="chap-xix.xhtml"/>
-		<itemref idref="chap-xx.xhtml"/>
-		<itemref idref="chap-xxi.xhtml"/>
-		<itemref idref="chap-xxii.xhtml"/>
-		<itemref idref="chap-xxiii.xhtml"/>
-		<itemref idref="chap-xxiv.xhtml"/>
-		<itemref idref="chap-xxv.xhtml"/>
-		<itemref idref="chap-xxvi.xhtml"/>
-		<itemref idref="chap-xxvii.xhtml"/>
-		<itemref idref="chap-xxviii.xhtml"/>
-		<itemref idref="chap-xxix.xhtml"/>
-		<itemref idref="chap-xxx.xhtml"/>
-		<itemref idref="chap-xxxi.xhtml"/>
-		<itemref idref="chap-xxxii.xhtml"/>
-		<itemref idref="chap-xxxiii.xhtml"/>
-		<itemref idref="chap-xxxiv.xhtml"/>
-		<itemref idref="chap-xxxv.xhtml"/>
-		<itemref idref="chap-xxxvi.xhtml"/>
-		<itemref idref="chap-xxxvii.xhtml"/>
-		<itemref idref="chap-xxxviii.xhtml"/>
-		<itemref idref="chap-xxxix.xhtml"/>
-		<itemref idref="chap-xl.xhtml"/>
-		<itemref idref="chap-xli.xhtml"/>
-		<itemref idref="chap-xlii.xhtml"/>
-		<itemref idref="chap-xliii.xhtml"/>
-		<itemref idref="chap-xliv.xhtml"/>
-		<itemref idref="chap-xlv.xhtml"/>
-		<itemref idref="chap-xlvi.xhtml"/>
-		<itemref idref="chap-xlvii.xhtml"/>
-		<itemref idref="chap-xlviii.xhtml"/>
-		<itemref idref="chap-xlix.xhtml"/>
 		<itemref idref="chap-l.xhtml"/>
 		<itemref idref="chap-li.xhtml"/>
 		<itemref idref="chap-lii.xhtml"/>
 		<itemref idref="chap-liii.xhtml"/>
 		<itemref idref="chap-liv.xhtml"/>
+		<itemref idref="chap-lix.xhtml"/>
 		<itemref idref="chap-lv.xhtml"/>
 		<itemref idref="chap-lvi.xhtml"/>
 		<itemref idref="chap-lvii.xhtml"/>
 		<itemref idref="chap-lviii.xhtml"/>
-		<itemref idref="chap-lix.xhtml"/>
 		<itemref idref="chap-lx.xhtml"/>
 		<itemref idref="chap-lxi.xhtml"/>
 		<itemref idref="chap-lxii.xhtml"/>
 		<itemref idref="chap-lxiii.xhtml"/>
 		<itemref idref="chap-lxiv.xhtml"/>
+		<itemref idref="chap-lxix.xhtml"/>
 		<itemref idref="chap-lxv.xhtml"/>
 		<itemref idref="chap-lxvi.xhtml"/>
 		<itemref idref="chap-lxvii.xhtml"/>
 		<itemref idref="chap-lxviii.xhtml"/>
-		<itemref idref="chap-lxix.xhtml"/>
 		<itemref idref="chap-lxx.xhtml"/>
 		<itemref idref="chap-lxxi.xhtml"/>
 		<itemref idref="chap-lxxii.xhtml"/>
@@ -282,9 +239,56 @@
 		<itemref idref="chap-lxxvi.xhtml"/>
 		<itemref idref="chap-lxxvii.xhtml"/>
 		<itemref idref="chap-lxxviii.xhtml"/>
+		<itemref idref="chap-v.xhtml"/>
+		<itemref idref="chap-vi.xhtml"/>
+		<itemref idref="chap-vii.xhtml"/>
+		<itemref idref="chap-viii.xhtml"/>
+		<itemref idref="chap-x.xhtml"/>
+		<itemref idref="chap-xi.xhtml"/>
+		<itemref idref="chap-xii.xhtml"/>
+		<itemref idref="chap-xiii.xhtml"/>
+		<itemref idref="chap-xiv.xhtml"/>
+		<itemref idref="chap-xix.xhtml"/>
+		<itemref idref="chap-xl.xhtml"/>
+		<itemref idref="chap-xli.xhtml"/>
+		<itemref idref="chap-xlii.xhtml"/>
+		<itemref idref="chap-xliii.xhtml"/>
+		<itemref idref="chap-xliv.xhtml"/>
+		<itemref idref="chap-xlix.xhtml"/>
+		<itemref idref="chap-xlv.xhtml"/>
+		<itemref idref="chap-xlvi.xhtml"/>
+		<itemref idref="chap-xlvii.xhtml"/>
+		<itemref idref="chap-xlviii.xhtml"/>
+		<itemref idref="chap-xv.xhtml"/>
+		<itemref idref="chap-xvi.xhtml"/>
+		<itemref idref="chap-xvii.xhtml"/>
+		<itemref idref="chap-xviii.xhtml"/>
+		<itemref idref="chap-xx.xhtml"/>
+		<itemref idref="chap-xxi.xhtml"/>
+		<itemref idref="chap-xxii.xhtml"/>
+		<itemref idref="chap-xxiii.xhtml"/>
+		<itemref idref="chap-xxiv.xhtml"/>
+		<itemref idref="chap-xxix.xhtml"/>
+		<itemref idref="chap-xxv.xhtml"/>
+		<itemref idref="chap-xxvi.xhtml"/>
+		<itemref idref="chap-xxvii.xhtml"/>
+		<itemref idref="chap-xxviii.xhtml"/>
+		<itemref idref="chap-xxx.xhtml"/>
+		<itemref idref="chap-xxxi.xhtml"/>
+		<itemref idref="chap-xxxii.xhtml"/>
+		<itemref idref="chap-xxxiii.xhtml"/>
+		<itemref idref="chap-xxxiv.xhtml"/>
+		<itemref idref="chap-xxxix.xhtml"/>
+		<itemref idref="chap-xxxv.xhtml"/>
+		<itemref idref="chap-xxxvi.xhtml"/>
+		<itemref idref="chap-xxxvii.xhtml"/>
+		<itemref idref="chap-xxxviii.xhtml"/>
+		<itemref idref="colophon.xhtml"/>
+		<itemref idref="ketills-family.xhtml"/>
+		<itemref idref="uncopyright.xhtml"/>
 		<itemref idref="appendix.xhtml"/>
-		<itemref idref="about-the-translator.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="about-the-translator.xhtml"/>
 		<itemref idref="permissions.xhtml"/>
 	</spine>
 </package>
