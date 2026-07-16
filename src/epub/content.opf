@@ -199,8 +199,8 @@
 		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
 	</manifest>
 	<spine>
-		<itemref idref="imprint.xhtml"/>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chap-i.xhtml"/>
 		<itemref idref="ketills-family.xhtml"/>
