@@ -2,12 +2,12 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://www.impressioneditions.com/ebooks/anonymous/laxd-la-saga-translated-from-the-icelandic</dc:identifier>
-		<dc:date>2026-07-16T19:59:17Z</dc:date>
+		<dc:date>2026-07-16T23:14:04Z</dc:date>
 		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
-		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
-		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
-		<meta property="se:url.homepage" refines="#publisher">https://standardebooks.org/</meta>
+		<dc:rights>The source text and artwork in this ebook are believed to be in the public domain. This ebook edition is released under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). See the Copyright &amp; Permissions page at the end of this ebook for details.</dc:rights>
+		<dc:publisher id="publisher">Impression Editions</dc:publisher>
+		<meta property="file-as" refines="#publisher">Impression Editions</meta>
+		<meta property="se:url.homepage" refines="#publisher">https://www.impressioneditions.com/</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">bkd</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">mdc</meta>
 		<meta property="role" refines="#publisher" scheme="marc:relators">pbl</meta>
@@ -16,9 +16,10 @@
 		<meta property="se:url.homepage" refines="#type-designer">https://www.theleagueofmoveabletype.com/</meta>
 		<meta property="role" refines="#type-designer" scheme="marc:relators">tyd</meta>
 		<meta id="conformance-statement" property="dcterms:conformsTo">EPUB Accessibility 1.1 - WCAG 2.2 Level AA</meta>
-		<meta property="a11y:certifiedBy" refines="#conformance-statement">Standard Ebooks</meta>
+		<meta property="a11y:certifiedBy" refines="#conformance-statement">Impression Editions</meta>
 		<meta property="schema:accessMode">textual</meta>
-		<meta property="schema:accessModeSufficient">textual</meta>
+		<meta property="schema:accessMode">visual</meta>
+		<meta property="schema:accessModeSufficient">textual,visual</meta>
 		<meta property="schema:accessibilityFeature">alternativeText</meta>
 		<meta property="schema:accessibilityFeature">displayTransformability</meta>
 		<meta property="schema:accessibilityFeature">readingOrder</meta>
@@ -29,81 +30,261 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Laxdæla Saga</dc:title>
 		<meta property="file-as" refines="#title">Laxdæla Saga_SORT</meta>
-		<dc:subject id="subject-1"></dc:subject>
-		<dc:subject id="subject-2"></dc:subject>
+		<dc:subject id="subject-1"/>
+		<dc:subject id="subject-2"/>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">_LCSH_ID</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">_LCSH_ID</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description"></dc:description>
+		<meta property="se:subject">Adventure</meta>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description"/>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>TRANSCRIPTION_URL</dc:source>
-		<dc:source></dc:source>
-		<meta property="se:production-notes"></meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
-		<meta property="se:url.vcs.github">VCS_URL</meta>
+		<dc:source/>
+		<meta property="se:production-notes"/>
+		<meta property="se:word-count">72844</meta>
+		<meta property="se:reading-ease.flesch">74.12</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Anonymous</meta>
 		<dc:creator id="author">Anonymous</dc:creator>
-		<meta property="file-as" refines="#author"></meta>
+		<meta property="file-as" refines="#author"/>
 		<meta property="se:name.person.full-name" refines="#author">Anonymous</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author"></meta>
-		<meta property="se:url.authority.nacoaf" refines="#author"></meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author"/>
+		<meta property="se:url.authority.nacoaf" refines="#author"/>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Muriel A. C. Press</dc:contributor>
-		<meta property="file-as" refines="#translator"></meta>
+		<meta property="file-as" refines="#translator"/>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">_WIKI_URL</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator">_NACOAF_URI</meta>
 		<meta property="display-seq" refines="#translator">1</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist"></dc:contributor>
-		<meta property="file-as" refines="#artist"></meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist"></meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist"></meta>
+		<dc:contributor id="artist"/>
+		<meta property="file-as" refines="#artist"/>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist"/>
+		<meta property="se:url.authority.nacoaf" refines="#artist"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
-		<dc:contributor id="transcriber-1">TRANSCRIBER_1_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_1_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-1">TRANSCRIBER_1_URL</meta>
-		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">TRANSCRIBER_2_NAME</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
-		<meta property="se:url.homepage" refines="#transcriber-2">TRANSCRIBER_2_URL</meta>
-		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1"></dc:contributor>
-		<meta property="file-as" refines="#producer-1"></meta>
-		<meta property="se:url.homepage" refines="#producer-1"></meta>
+		<dc:contributor id="translator-1">Muriel A. C. Press</dc:contributor>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<meta property="file-as" refines="#translator-1">Muriel A. C. Press</meta>
+		<dc:contributor id="producer-1"/>
+		<meta property="file-as" refines="#producer-1"/>
+		<meta property="se:url.homepage" refines="#producer-1"/>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wat</meta>
 	</metadata>
 	<manifest>
+		<item href="css/compatibility-white-label.css" id="compatibility-white-label.css" media-type="text/css"/>
+		<item href="css/compatibility.css" id="compatibility.css" media-type="text/css"/>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>
+		<item href="css/dedication.css" id="dedication.css" media-type="text/css"/>
+		<item href="css/dramatis-personae.css" id="dramatis-personae.css" media-type="text/css"/>
+		<item href="css/epigraph.css" id="epigraph.css" media-type="text/css"/>
+		<item href="css/full-page-figure-compatibility.css" id="full-page-figure-compatibility.css" media-type="text/css"/>
+		<item href="css/glossary.css" id="glossary.css" media-type="text/css"/>
+		<item href="css/kindle.css" id="kindle.css" media-type="text/css"/>
+		<item href="css/kobo.css" id="kobo.css" media-type="text/css"/>
+		<item href="css/local-white-label.css" id="local-white-label.css" media-type="text/css"/>
 		<item href="css/local.css" id="local.css" media-type="text/css"/>
+		<item href="css/proofreading.css" id="proofreading.css" media-type="text/css"/>
+		<item href="css/se-kobo.css" id="se-kobo.css" media-type="text/css"/>
 		<item href="css/se.css" id="se.css" media-type="text/css"/>
-		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
-		<item href="images/logo.svg" id="logo.svg" media-type="image/svg+xml"/>
+		<item href="images/img_02.jpg" id="img_02.jpg" media-type="image/jpeg"/>
+		<item href="images/img_03.jpg" id="img_03.jpg" media-type="image/jpeg"/>
 		<item href="images/titlepage.svg" id="titlepage.svg" media-type="image/svg+xml"/>
-		<item href="text/colophon.xhtml" id="colophon.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml" properties="svg"/>
-		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml" properties="svg"/>
+		<item href="text/appendix.xhtml" id="appendix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/bjorn-iceland.xhtml" id="bjorn-iceland.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-i.xhtml" id="chap-i.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-ii.xhtml" id="chap-ii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-iii.xhtml" id="chap-iii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-iv.xhtml" id="chap-iv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-ix.xhtml" id="chap-ix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-l.xhtml" id="chap-l.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-li.xhtml" id="chap-li.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lii.xhtml" id="chap-lii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-liii.xhtml" id="chap-liii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-liv.xhtml" id="chap-liv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lix.xhtml" id="chap-lix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lv.xhtml" id="chap-lv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lvi.xhtml" id="chap-lvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lvii.xhtml" id="chap-lvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lviii.xhtml" id="chap-lviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lx.xhtml" id="chap-lx.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxi.xhtml" id="chap-lxi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxii.xhtml" id="chap-lxii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxiii.xhtml" id="chap-lxiii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxiv.xhtml" id="chap-lxiv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxix.xhtml" id="chap-lxix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxv.xhtml" id="chap-lxv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxvi.xhtml" id="chap-lxvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxvii.xhtml" id="chap-lxvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxviii.xhtml" id="chap-lxviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxx.xhtml" id="chap-lxx.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxi.xhtml" id="chap-lxxi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxii.xhtml" id="chap-lxxii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxiii.xhtml" id="chap-lxxiii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxiv.xhtml" id="chap-lxxiv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxv.xhtml" id="chap-lxxv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxvi.xhtml" id="chap-lxxvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxvii.xhtml" id="chap-lxxvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-lxxviii.xhtml" id="chap-lxxviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-v.xhtml" id="chap-v.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-vi.xhtml" id="chap-vi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-vii.xhtml" id="chap-vii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-viii.xhtml" id="chap-viii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-x.xhtml" id="chap-x.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xi.xhtml" id="chap-xi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xii.xhtml" id="chap-xii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xiii.xhtml" id="chap-xiii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xiv.xhtml" id="chap-xiv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xix.xhtml" id="chap-xix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xl.xhtml" id="chap-xl.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xli.xhtml" id="chap-xli.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xlii.xhtml" id="chap-xlii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xliii.xhtml" id="chap-xliii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xliv.xhtml" id="chap-xliv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xlix.xhtml" id="chap-xlix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xlv.xhtml" id="chap-xlv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xlvi.xhtml" id="chap-xlvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xlvii.xhtml" id="chap-xlvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xlviii.xhtml" id="chap-xlviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xv.xhtml" id="chap-xv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xvi.xhtml" id="chap-xvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xvii.xhtml" id="chap-xvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xviii.xhtml" id="chap-xviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xx.xhtml" id="chap-xx.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxi.xhtml" id="chap-xxi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxii.xhtml" id="chap-xxii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxiii.xhtml" id="chap-xxiii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxiv.xhtml" id="chap-xxiv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxix.xhtml" id="chap-xxix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxv.xhtml" id="chap-xxv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxvi.xhtml" id="chap-xxvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxvii.xhtml" id="chap-xxvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxviii.xhtml" id="chap-xxviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxx.xhtml" id="chap-xxx.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxi.xhtml" id="chap-xxxi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxii.xhtml" id="chap-xxxii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxiii.xhtml" id="chap-xxxiii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxiv.xhtml" id="chap-xxxiv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxix.xhtml" id="chap-xxxix.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxv.xhtml" id="chap-xxxv.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxvi.xhtml" id="chap-xxxvi.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxvii.xhtml" id="chap-xxxvii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/chap-xxxviii.xhtml" id="chap-xxxviii.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/endnotes.xhtml" id="endnotes.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/halftitle.xhtml" id="halftitle.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/imprint.xhtml" id="imprint.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/ketills-family.xhtml" id="ketills-family.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/permissions.xhtml" id="permissions.xhtml" media-type="application/xhtml+xml"/>
+		<item href="text/titlepage.xhtml" id="titlepage.xhtml" media-type="application/xhtml+xml"/>
 		<item href="text/uncopyright.xhtml" id="uncopyright.xhtml" media-type="application/xhtml+xml"/>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
+		<item href="text/about-the-translator.xhtml" id="about-the-translator.xhtml" media-type="application/xhtml+xml"/>
+		<item href="images/cover.svg" id="cover.svg" media-type="image/svg+xml" properties="cover-image"/>
+			<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="font/woff2"/>
+		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="font/woff2"/>
+		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
 	</manifest>
 	<spine>
-		<itemref idref="titlepage.xhtml"/>
 		<itemref idref="imprint.xhtml"/>
-		<itemref idref="colophon.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
+		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="halftitle.xhtml"/>
+		<itemref idref="chap-i.xhtml"/>
+		<itemref idref="ketills-family.xhtml"/>
+		<itemref idref="chap-ii.xhtml"/>
+		<itemref idref="chap-iii.xhtml"/>
+		<itemref idref="bjorn-iceland.xhtml"/>
+		<itemref idref="chap-iv.xhtml"/>
+		<itemref idref="chap-v.xhtml"/>
+		<itemref idref="chap-vi.xhtml"/>
+		<itemref idref="chap-vii.xhtml"/>
+		<itemref idref="chap-viii.xhtml"/>
+		<itemref idref="chap-ix.xhtml"/>
+		<itemref idref="chap-x.xhtml"/>
+		<itemref idref="chap-xi.xhtml"/>
+		<itemref idref="chap-xii.xhtml"/>
+		<itemref idref="chap-xiii.xhtml"/>
+		<itemref idref="chap-xiv.xhtml"/>
+		<itemref idref="chap-xv.xhtml"/>
+		<itemref idref="chap-xvi.xhtml"/>
+		<itemref idref="chap-xvii.xhtml"/>
+		<itemref idref="chap-xviii.xhtml"/>
+		<itemref idref="chap-xix.xhtml"/>
+		<itemref idref="chap-xx.xhtml"/>
+		<itemref idref="chap-xxi.xhtml"/>
+		<itemref idref="chap-xxii.xhtml"/>
+		<itemref idref="chap-xxiii.xhtml"/>
+		<itemref idref="chap-xxiv.xhtml"/>
+		<itemref idref="chap-xxv.xhtml"/>
+		<itemref idref="chap-xxvi.xhtml"/>
+		<itemref idref="chap-xxvii.xhtml"/>
+		<itemref idref="chap-xxviii.xhtml"/>
+		<itemref idref="chap-xxix.xhtml"/>
+		<itemref idref="chap-xxx.xhtml"/>
+		<itemref idref="chap-xxxi.xhtml"/>
+		<itemref idref="chap-xxxii.xhtml"/>
+		<itemref idref="chap-xxxiii.xhtml"/>
+		<itemref idref="chap-xxxiv.xhtml"/>
+		<itemref idref="chap-xxxv.xhtml"/>
+		<itemref idref="chap-xxxvi.xhtml"/>
+		<itemref idref="chap-xxxvii.xhtml"/>
+		<itemref idref="chap-xxxviii.xhtml"/>
+		<itemref idref="chap-xxxix.xhtml"/>
+		<itemref idref="chap-xl.xhtml"/>
+		<itemref idref="chap-xli.xhtml"/>
+		<itemref idref="chap-xlii.xhtml"/>
+		<itemref idref="chap-xliii.xhtml"/>
+		<itemref idref="chap-xliv.xhtml"/>
+		<itemref idref="chap-xlv.xhtml"/>
+		<itemref idref="chap-xlvi.xhtml"/>
+		<itemref idref="chap-xlvii.xhtml"/>
+		<itemref idref="chap-xlviii.xhtml"/>
+		<itemref idref="chap-xlix.xhtml"/>
+		<itemref idref="chap-l.xhtml"/>
+		<itemref idref="chap-li.xhtml"/>
+		<itemref idref="chap-lii.xhtml"/>
+		<itemref idref="chap-liii.xhtml"/>
+		<itemref idref="chap-liv.xhtml"/>
+		<itemref idref="chap-lv.xhtml"/>
+		<itemref idref="chap-lvi.xhtml"/>
+		<itemref idref="chap-lvii.xhtml"/>
+		<itemref idref="chap-lviii.xhtml"/>
+		<itemref idref="chap-lix.xhtml"/>
+		<itemref idref="chap-lx.xhtml"/>
+		<itemref idref="chap-lxi.xhtml"/>
+		<itemref idref="chap-lxii.xhtml"/>
+		<itemref idref="chap-lxiii.xhtml"/>
+		<itemref idref="chap-lxiv.xhtml"/>
+		<itemref idref="chap-lxv.xhtml"/>
+		<itemref idref="chap-lxvi.xhtml"/>
+		<itemref idref="chap-lxvii.xhtml"/>
+		<itemref idref="chap-lxviii.xhtml"/>
+		<itemref idref="chap-lxix.xhtml"/>
+		<itemref idref="chap-lxx.xhtml"/>
+		<itemref idref="chap-lxxi.xhtml"/>
+		<itemref idref="chap-lxxii.xhtml"/>
+		<itemref idref="chap-lxxiii.xhtml"/>
+		<itemref idref="chap-lxxiv.xhtml"/>
+		<itemref idref="chap-lxxv.xhtml"/>
+		<itemref idref="chap-lxxvi.xhtml"/>
+		<itemref idref="chap-lxxvii.xhtml"/>
+		<itemref idref="chap-lxxviii.xhtml"/>
+		<itemref idref="appendix.xhtml"/>
+		<itemref idref="about-the-translator.xhtml"/>
+		<itemref idref="endnotes.xhtml"/>
+		<itemref idref="permissions.xhtml"/>
 	</spine>
 </package>

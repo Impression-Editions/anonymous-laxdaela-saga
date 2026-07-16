@@ -1,0 +1,442 @@
+{
+  "classifications": {
+    "laxdaela saga": {
+      "heading": "LAXDAeLA\n\nSAGA",
+      "type": "halftitle"
+    },
+    "by": {
+      "heading": "by",
+      "type": "blank"
+    },
+    "mdcccxcix": {
+      "heading": "MDCCCXCIX",
+      "type": "blank"
+    },
+    "j.m. dent and co.": {
+      "heading": "J.M. DENT\nAND CO.",
+      "type": "blank"
+    },
+    "contents": {
+      "heading": "CONTENTS",
+      "type": "contents"
+    },
+    "the laxdale saga": {
+      "heading": "THE LAXDALE SAGA",
+      "type": "blank"
+    },
+    "chap. i": {
+      "heading": "Chap. I",
+      "type": "chapter"
+    },
+    "ketill's family": {
+      "heading": "Ketill's family",
+      "type": "chapter"
+    },
+    "chap. ii": {
+      "heading": "Chap. II",
+      "type": "chapter"
+    },
+    "chap. iii": {
+      "heading": "Chap. III",
+      "type": "chapter"
+    },
+    "of bjorn in iceland": {
+      "heading": "Of Bjorn in Iceland",
+      "type": "chapter"
+    },
+    "chap. iv": {
+      "heading": "Chap. IV",
+      "type": "chapter"
+    },
+    "chap. v": {
+      "heading": "Chap. V",
+      "type": "chapter"
+    },
+    "chap. vi": {
+      "heading": "Chap. VI",
+      "type": "chapter"
+    },
+    "chap. vii": {
+      "heading": "Chap. VII",
+      "type": "chapter"
+    },
+    "chap. viii": {
+      "heading": "Chap. VIII",
+      "type": "chapter"
+    },
+    "chap. ix": {
+      "heading": "Chap. IX",
+      "type": "chapter"
+    },
+    "chap. x": {
+      "heading": "Chap. X",
+      "type": "chapter"
+    },
+    "chap. xi": {
+      "heading": "Chap. XI",
+      "type": "chapter"
+    },
+    "chap. xii": {
+      "heading": "Chap. XII",
+      "type": "chapter"
+    },
+    "chap. xiii": {
+      "heading": "Chap. XIII",
+      "type": "chapter"
+    },
+    "chap. xiv": {
+      "heading": "Chap. XIV",
+      "type": "chapter"
+    },
+    "chap. xv": {
+      "heading": "Chap. XV",
+      "type": "chapter"
+    },
+    "chap. xvi": {
+      "heading": "Chap. XVI",
+      "type": "chapter"
+    },
+    "chap. xvii": {
+      "heading": "Chap. XVII",
+      "type": "chapter"
+    },
+    "chap. xviii": {
+      "heading": "Chap. XVIII",
+      "type": "chapter"
+    },
+    "chap. xix": {
+      "heading": "Chap. XIX",
+      "type": "chapter"
+    },
+    "chap. xx": {
+      "heading": "Chap. XX",
+      "type": "chapter"
+    },
+    "chap. xxi": {
+      "heading": "Chap. XXI",
+      "type": "chapter"
+    },
+    "chap. xxii": {
+      "heading": "Chap. XXII",
+      "type": "chapter"
+    },
+    "chap. xxiii": {
+      "heading": "Chap. XXIII",
+      "type": "chapter"
+    },
+    "chap. xxiv": {
+      "heading": "Chap. XXIV",
+      "type": "chapter"
+    },
+    "chap. xxv": {
+      "heading": "Chap. XXV",
+      "type": "chapter"
+    },
+    "chap. xxvi": {
+      "heading": "Chap. XXVI",
+      "type": "chapter"
+    },
+    "chap. xxvii": {
+      "heading": "Chap. XXVII",
+      "type": "chapter"
+    },
+    "chap. xxviii": {
+      "heading": "Chap. XXVIII",
+      "type": "chapter"
+    },
+    "chap. xxix": {
+      "heading": "Chap. XXIX",
+      "type": "chapter"
+    },
+    "chap. xxx": {
+      "heading": "Chap. XXX",
+      "type": "chapter"
+    },
+    "chap. xxxi": {
+      "heading": "Chap. XXXI",
+      "type": "chapter"
+    },
+    "chap. xxxii": {
+      "heading": "Chap. XXXII",
+      "type": "chapter"
+    },
+    "chap. xxxiii": {
+      "heading": "Chap. XXXIII",
+      "type": "chapter"
+    },
+    "chap. xxxiv": {
+      "heading": "Chap. XXXIV",
+      "type": "chapter"
+    },
+    "chap. xxxv": {
+      "heading": "Chap. XXXV",
+      "type": "chapter"
+    },
+    "chap. xxxvi": {
+      "heading": "Chap. XXXVI",
+      "type": "chapter"
+    },
+    "chap. xxxvii": {
+      "heading": "Chap. XXXVII",
+      "type": "chapter"
+    },
+    "chap. xxxviii": {
+      "heading": "Chap. XXXVIII",
+      "type": "chapter"
+    },
+    "chap. xxxix": {
+      "heading": "Chap. XXXIX",
+      "type": "chapter"
+    },
+    "chap. xl": {
+      "heading": "Chap. XL",
+      "type": "chapter"
+    },
+    "chap. xli": {
+      "heading": "Chap. XLI",
+      "type": "chapter"
+    },
+    "chap. xlii": {
+      "heading": "Chap. XLII",
+      "type": "chapter"
+    },
+    "chap. xliii": {
+      "heading": "Chap. XLIII",
+      "type": "chapter"
+    },
+    "chap. xliv": {
+      "heading": "Chap. XLIV",
+      "type": "chapter"
+    },
+    "chap. xlv": {
+      "heading": "Chap. XLV",
+      "type": "chapter"
+    },
+    "chap. xlvi": {
+      "heading": "Chap. XLVI",
+      "type": "chapter"
+    },
+    "chap. xlvii": {
+      "heading": "Chap. XLVII",
+      "type": "chapter"
+    },
+    "chap. xlviii": {
+      "heading": "Chap. XLVIII",
+      "type": "chapter"
+    },
+    "chap. xlix": {
+      "heading": "Chap. XLIX",
+      "type": "chapter"
+    },
+    "chap. l": {
+      "heading": "Chap. L",
+      "type": "chapter"
+    },
+    "chap. li": {
+      "heading": "Chap. LI",
+      "type": "chapter"
+    },
+    "chap. lii": {
+      "heading": "Chap. LII",
+      "type": "chapter"
+    },
+    "chap. liii": {
+      "heading": "Chap. LIII",
+      "type": "chapter"
+    },
+    "chap. liv": {
+      "heading": "Chap. LIV",
+      "type": "chapter"
+    },
+    "chap. lv": {
+      "heading": "Chap. LV",
+      "type": "chapter"
+    },
+    "chap. lvi": {
+      "heading": "Chap. LVI",
+      "type": "chapter"
+    },
+    "chap. lvii": {
+      "heading": "Chap. LVII",
+      "type": "chapter"
+    },
+    "chap. lviii": {
+      "heading": "Chap. LVIII",
+      "type": "chapter"
+    },
+    "chap. lix": {
+      "heading": "Chap. LIX",
+      "type": "chapter"
+    },
+    "chap. lx": {
+      "heading": "Chap. LX",
+      "type": "chapter"
+    },
+    "chap. lxi": {
+      "heading": "Chap. LXI",
+      "type": "chapter"
+    },
+    "chap. lxii": {
+      "heading": "Chap. LXII",
+      "type": "chapter"
+    },
+    "chap. lxiii": {
+      "heading": "Chap. LXIII",
+      "type": "chapter"
+    },
+    "chap. lxiv": {
+      "heading": "Chap. LXIV",
+      "type": "chapter"
+    },
+    "chap. lxv": {
+      "heading": "Chap. LXV",
+      "type": "chapter"
+    },
+    "chap. lxvi": {
+      "heading": "Chap. LXVI",
+      "type": "chapter"
+    },
+    "chap. lxvii": {
+      "heading": "Chap. LXVII",
+      "type": "chapter"
+    },
+    "chap. lxviii": {
+      "heading": "Chap. LXVIII",
+      "type": "chapter"
+    },
+    "chap. lxix": {
+      "heading": "Chap. LXIX",
+      "type": "chapter"
+    },
+    "chap. lxx": {
+      "heading": "Chap. LXX",
+      "type": "chapter"
+    },
+    "chap. lxxi": {
+      "heading": "Chap. LXXI",
+      "type": "chapter"
+    },
+    "chap. lxxii": {
+      "heading": "Chap. LXXII",
+      "type": "chapter"
+    },
+    "chap. lxxiii": {
+      "heading": "Chap. LXXIII",
+      "type": "chapter"
+    },
+    "chap. lxxiv": {
+      "heading": "Chap. LXXIV",
+      "type": "chapter"
+    },
+    "chap. lxxv": {
+      "heading": "Chap. LXXV",
+      "type": "chapter"
+    },
+    "chap. lxxvi": {
+      "heading": "Chap. LXXVI",
+      "type": "chapter"
+    },
+    "chap. lxxvii": {
+      "heading": "Chap. LXXVII",
+      "type": "chapter"
+    },
+    "chap. lxxviii": {
+      "heading": "Chap. LXXVIII",
+      "type": "chapter"
+    },
+    "note": {
+      "heading": "NOTE",
+      "type": "appendix"
+    }
+  },
+  "spine_order": [
+    "halftitle.xhtml",
+    "chap-i.xhtml",
+    "ketills-family.xhtml",
+    "chap-ii.xhtml",
+    "chap-iii.xhtml",
+    "bjorn-iceland.xhtml",
+    "chap-iv.xhtml",
+    "chap-v.xhtml",
+    "chap-vi.xhtml",
+    "chap-vii.xhtml",
+    "chap-viii.xhtml",
+    "chap-ix.xhtml",
+    "chap-x.xhtml",
+    "chap-xi.xhtml",
+    "chap-xii.xhtml",
+    "chap-xiii.xhtml",
+    "chap-xiv.xhtml",
+    "chap-xv.xhtml",
+    "chap-xvi.xhtml",
+    "chap-xvii.xhtml",
+    "chap-xviii.xhtml",
+    "chap-xix.xhtml",
+    "chap-xx.xhtml",
+    "chap-xxi.xhtml",
+    "chap-xxii.xhtml",
+    "chap-xxiii.xhtml",
+    "chap-xxiv.xhtml",
+    "chap-xxv.xhtml",
+    "chap-xxvi.xhtml",
+    "chap-xxvii.xhtml",
+    "chap-xxviii.xhtml",
+    "chap-xxix.xhtml",
+    "chap-xxx.xhtml",
+    "chap-xxxi.xhtml",
+    "chap-xxxii.xhtml",
+    "chap-xxxiii.xhtml",
+    "chap-xxxiv.xhtml",
+    "chap-xxxv.xhtml",
+    "chap-xxxvi.xhtml",
+    "chap-xxxvii.xhtml",
+    "chap-xxxviii.xhtml",
+    "chap-xxxix.xhtml",
+    "chap-xl.xhtml",
+    "chap-xli.xhtml",
+    "chap-xlii.xhtml",
+    "chap-xliii.xhtml",
+    "chap-xliv.xhtml",
+    "chap-xlv.xhtml",
+    "chap-xlvi.xhtml",
+    "chap-xlvii.xhtml",
+    "chap-xlviii.xhtml",
+    "chap-xlix.xhtml",
+    "chap-l.xhtml",
+    "chap-li.xhtml",
+    "chap-lii.xhtml",
+    "chap-liii.xhtml",
+    "chap-liv.xhtml",
+    "chap-lv.xhtml",
+    "chap-lvi.xhtml",
+    "chap-lvii.xhtml",
+    "chap-lviii.xhtml",
+    "chap-lix.xhtml",
+    "chap-lx.xhtml",
+    "chap-lxi.xhtml",
+    "chap-lxii.xhtml",
+    "chap-lxiii.xhtml",
+    "chap-lxiv.xhtml",
+    "chap-lxv.xhtml",
+    "chap-lxvi.xhtml",
+    "chap-lxvii.xhtml",
+    "chap-lxviii.xhtml",
+    "chap-lxix.xhtml",
+    "chap-lxx.xhtml",
+    "chap-lxxi.xhtml",
+    "chap-lxxii.xhtml",
+    "chap-lxxiii.xhtml",
+    "chap-lxxiv.xhtml",
+    "chap-lxxv.xhtml",
+    "chap-lxxvi.xhtml",
+    "chap-lxxvii.xhtml",
+    "chap-lxxviii.xhtml",
+    "appendix.xhtml"
+  ],
+  "bios": {
+    "muriel a. c. press": {
+      "bio": "Muriel A. C. Press (1867–1937) was a distinguished English translator and scholar whose work played a pivotal role in introducing the richness of Old Norse literature to an English-speaking audience. A dedicated student of the sagas, she is best remembered for her pioneering efforts in bringing the medieval Icelandic tradition to life, most notably through her definitive translations of the Laxdæla saga and the Færeyinga saga. Her meticulous approach to these texts helped bridge the gap between academic scholarship and the broader literary public, establishing her as a significant figure in the early twentieth-century study of Nordic history and folklore.\n\nIn this edition of Laxdæla saga, the reader benefits from the clarity and narrative sensitivity that defined Press’s career. By capturing the complex interplay of family honor, tragic romance, and historical legacy inherent in the original manuscript, she ensured that the saga remained as compelling for modern readers as it was for its medieval audience. Her scholarly contributions remain a testament to her enduring commitment to preserving the integrity and spirit of the Icelandic sagas, cementing her legacy as a vital voice in the history of literary translation.",
+      "wiki": "Muriel Press"
+    }
+  }
+}

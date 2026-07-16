@@ -1,0 +1,46 @@
+{
+  "_generated_from": "gutenberg17803-laxdaela-saga_errata_email.txt",
+  "text_corrections": [
+    {
+      "find": "hostages",
+      "replace": "hostages:",
+      "reason": "Gerrata errata, scan page 283",
+      "context": "The next summer the king sent Gizor and Hjalti Skeggjason to Iceland to preach the faith anew, and kept four men back as hostages Kjartan Olafson, Halldor, the son of Gudmund the Mighty, Kolbein, son of Thord the priest of Frey, and Sverling, son of Runolf of Dale."
+    },
+    {
+      "find": "over-head",
+      "replace": "overhead",
+      "reason": "Gerrata errata, scan page 80",
+      "context": "\" But at last the fog lifted over-head; and the wind rose, and they put up sail."
+    },
+    {
+      "find": "well-nigh dressed",
+      "replace": "wellnigh dressed",
+      "reason": "Gerrata errata, scan page 283",
+      "context": "The king was then well-nigh dressed; he called to Kjartan and bade him not go away so soon."
+    },
+    {
+      "find": "baptismal-robes",
+      "replace": "baptismal robes",
+      "reason": "Gerrata errata, scan page 283",
+      "context": "It is the tale of most men that Kjartan on the day he laid aside his white baptismal-robes became a liegeman of the king's, he and Bolli both."
+    },
+    {
+      "find": "finger ring",
+      "replace": "finger-ring",
+      "reason": "Gerrata errata, scan page 283",
+      "context": "\" [Sidenote: The description continued] Then the lad went on: \"Next there sat a man on an enamelled saddle in a yellow green kirtle; he had a great finger ring on his hand."
+    }
+  ],
+  "metadata_overrides": {},
+  "global_replacements": {
+    "djúpródul": "djúprödul",
+    "Saeling": "Sæling",
+    "Saelingdale-spring": "Sælingdale-spring",
+    "Saelingsdale": "Sælingsdale",
+    "Saelingsdale-Tongue": "Sælingsdale-Tongue",
+    "Stuf": "Stúf",
+    "Thorof": "Thorolf"
+  },
+  "insertions": []
+}
