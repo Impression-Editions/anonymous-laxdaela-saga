@@ -12,7 +12,13 @@
     }
   },
   "cover": {
-    "credit": null
+    "credit": "Cover image: \"Laxdæla saga - Guðrún smiled at Halldor.jpg\" by Andreas Bloch. (1898). Public domain. Source: https://commons.wikimedia.org/wiki/File:Laxdæla saga - Guðrún smiled at Halldor.jpg.",
+    "artist": "Andreas Bloch",
+    "title": "Laxdæla saga - Guðrún smiled at Halldor.jpg",
+    "date": "1898",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Laxdæla saga - Guðrún smiled at Halldor.jpg",
+    "override": "cover-override/cover.jpg"
   },
   "placements": []
 }

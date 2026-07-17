@@ -2,10 +2,10 @@
 <se-lint-ignore>
 	<file path="*.jpg">
 		<ignore code="f-016">
-			<reason>IE preserves original IA scan resolution; size >1.5MB is intentional for detail legibility</reason>
+			<reason>IE preserves original IA scan resolution; size &gt;1.5MB is intentional for detail legibility</reason>
 		</ignore>
 		<ignore code="f-018">
-			<reason>IE preserves original IA scan resolution; >4M pixels is intentional for detail legibility</reason>
+			<reason>IE preserves original IA scan resolution; &gt;4M pixels is intentional for detail legibility</reason>
 		</ignore>
 	</file>
 	<file path="content.opf">
