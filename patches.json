@@ -150,6 +150,13 @@
       "find": "</li>\n\t\t\t</ol>",
       "replace": "</li>\n\t\t\t<li id=\"note-65-10\"><p>Helmet-stems, those who upbear the helmet = men, specially warriors. <a href=\"chap-lxv.xhtml#noteref-65-10\">↩</a></p>\n\t\t\t</li>\n\t\t\t</ol>",
       "reason": "Add missing 10th endnote"
+    },
+    {
+      "file_pattern": "src/epub/text/imprint.xhtml",
+      "action": "regex",
+      "pattern": "https://commons\\.wikimedia\\.org/wiki/File:Laxdæla saga - Guðrún smiled at Halldor\\.jpg",
+      "replace": "https://commons.wikimedia.org/wiki/File:Laxd%C3%A6la_saga_-_Gu%C3%B0r%C3%BAn_smiled_at_Halldor.jpg",
+      "reason": "URL-encode spaces and special chars in Source URL"
     }
   ]
 }
