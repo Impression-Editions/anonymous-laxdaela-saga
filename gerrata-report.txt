@@ -1,1 +1,50 @@
-/root/projects/gerrata/reports/gutenberg17803-laxdaela-saga_errata_email.txt
+In Laxdaela Saga, by Anonymous, [EBook #17803],
+File: 17803.txt,
+I verified the following changes against the Internet Archive scan:
+https://archive.org/details/laxdaelasagatran00pres
+NOTE: Page numbers are 'of the scan' not 'of the book.'
+
+Global Replacements {
+djúpródul ==> djúprödul
+Saeling ==> Sæling
+Saelingdale-spring ==> Sælingdale-spring
+Saelingsdale ==> Sælingsdale
+Saelingsdale-Tongue ==> Sælingsdale-Tongue
+Stuf ==> Stúf
+Thorof ==> Thorolf
+}
+
+Page 283 (https://archive.org/details/laxdaelasagatran00pres/page/n283/mode/1up):
+Line 3613: next summer the king sent Gizor and Hjalti Skeggjason to Iceland to
+Line 3614: preach the faith anew, and kept four men back as hostages Kjartan  <-- error here
+Line 3615: Olafson, Halldor, the son of Gudmund the Mighty, Kolbein, son of Thord
+The next summer the king sent Gizor and Hjalti Skeggjason to Iceland to preach the faith anew, and kept four men back as hostages Kjartan Olafson, Halldor, the son of Gudmund the Mighty, Kolbein, son of Thord the priest of Frey, and Sverling, son of Runolf of Dale.
+hostages ==> hostages:
+
+Page 80 (https://archive.org/details/laxdaelasagatran00pres/page/n80/mode/1up):
+Line 1621: on most on board fell "sea-bewilderment." But at last the fog lifted
+Line 1622: over-head; and the wind rose, and they put up sail. Then they began to  <-- error here
+Line 1623: discuss in which direction Ireland was to be sought; and they did not
+" But at last the fog lifted over-head; and the wind rose, and they put up sail.
+over-head ==> overhead 
+
+Page 283 (https://archive.org/details/laxdaelasagatran00pres/page/n283/mode/1up):
+Line 3391: nothing, but turned away forthwith without his cloak. He had on a
+Line 3392: kirtle of red scarlet. The king was then well-nigh dressed; he called  <-- error here
+Line 3393: to Kjartan and bade him not go away so soon. Kjartan turned back, but
+The king was then well-nigh dressed; he called to Kjartan and bade him not go away so soon.
+well-nigh dressed ==> wellnigh dressed 
+
+Page 283 (https://archive.org/details/laxdaelasagatran00pres/page/n283/mode/1up):
+Line 3533: kinsman. It is the tale of most men that Kjartan on the day he laid
+Line 3534: aside his white baptismal-robes became a liegeman of the king's, he  <-- error here
+Line 3535: and Bolli both. Hallfred was not baptized that day, for he made it a
+It is the tale of most men that Kjartan on the day he laid aside his white baptismal-robes became a liegeman of the king's, he and Bolli both.
+baptismal-robes ==> baptismal robes
+
+Page 283 (https://archive.org/details/laxdaelasagatran00pres/page/n283/mode/1up):
+Line 5421: went on: "Next there sat a man on an enamelled saddle in a yellow
+Line 5422: green kirtle; he had a great finger ring on his hand. This man was  <-- error here
+Line 5423: most goodly to behold, and must still be young of age; his hair was
+" [Sidenote: The description continued] Then the lad went on: "Next there sat a man on an enamelled saddle in a yellow green kirtle; he had a great finger ring on his hand.
+finger ring ==> finger-ring
