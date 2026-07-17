@@ -1,6 +1,42 @@
 {
   "patches": [
     {
+      "file": "src/epub/text/chap-i.xhtml",
+      "action": "merge",
+      "source": "src/epub/text/ketills-family.xhtml",
+      "reason": "Merge interlude content into chapter I"
+    },
+    {
+      "file": "src/epub/text/ketills-family.xhtml",
+      "action": "delete",
+      "reason": "Merged into chap-i.xhtml"
+    },
+    {
+      "file": "src/epub/text/chap-iii.xhtml",
+      "action": "merge",
+      "source": "src/epub/text/bjorn-iceland.xhtml",
+      "reason": "Merge interlude content into chapter III"
+    },
+    {
+      "file": "src/epub/text/bjorn-iceland.xhtml",
+      "action": "delete",
+      "reason": "Merged into chap-iii.xhtml"
+    },
+    {
+      "file_pattern": "src/epub/text/chap-*.xhtml",
+      "action": "regex",
+      "pattern": "<span class=\"sidenote\">\\s*<b>[^<]*</b>\\s*</span>",
+      "replace": "",
+      "reason": "Remove PG sidenote markers"
+    },
+    {
+      "file_pattern": "src/epub/text/chap-*.xhtml",
+      "action": "regex",
+      "pattern": "<span class=\"sidenote\">[^<]*</span>",
+      "replace": "",
+      "reason": "Remove PG sidenote markers (no bold wrapper)"
+    },
+    {
       "file": "src/epub/text/endnotes.xhtml",
       "find": "id=\"note-20-0\"",
       "replace": "id=\"note-20-1\"",
