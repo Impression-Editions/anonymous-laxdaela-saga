@@ -351,11 +351,10 @@
   },
   "spine_order": [
     "halftitle.xhtml",
+    "frontispiece.xhtml",
     "chap-i.xhtml",
-    "ketills-family.xhtml",
     "chap-ii.xhtml",
     "chap-iii.xhtml",
-    "bjorn-iceland.xhtml",
     "chap-iv.xhtml",
     "chap-v.xhtml",
     "chap-vi.xhtml",
@@ -435,7 +434,7 @@
   ],
   "bios": {
     "muriel a. c. press": {
-      "bio": "Muriel A. C. Press (1867–1937) was a distinguished English translator and scholar whose work played a pivotal role in introducing the richness of Old Norse literature to an English-speaking audience. A dedicated student of the sagas, she is best remembered for her pioneering efforts in bringing the medieval Icelandic tradition to life, most notably through her definitive translations of the Laxdæla saga and the Færeyinga saga. Her meticulous approach to these texts helped bridge the gap between academic scholarship and the broader literary public, establishing her as a significant figure in the early twentieth-century study of Nordic history and folklore.\n\nIn this edition of Laxdæla saga, the reader benefits from the clarity and narrative sensitivity that defined Press’s career. By capturing the complex interplay of family honor, tragic romance, and historical legacy inherent in the original manuscript, she ensured that the saga remained as compelling for modern readers as it was for its medieval audience. Her scholarly contributions remain a testament to her enduring commitment to preserving the integrity and spirit of the Icelandic sagas, cementing her legacy as a vital voice in the history of literary translation.",
+      "bio": "Muriel A. C. Press (1867\u20131937) was a distinguished English translator and scholar whose work played a pivotal role in introducing the richness of Old Norse literature to an English-speaking audience. A dedicated student of the sagas, she is best remembered for her pioneering efforts in bringing the medieval Icelandic tradition to life, most notably through her definitive translations of the Laxd\u00e6la saga and the F\u00e6reyinga saga. Her meticulous approach to these texts helped bridge the gap between academic scholarship and the broader literary public, establishing her as a significant figure in the early twentieth-century study of Nordic history and folklore.\n\nIn this edition of Laxd\u00e6la saga, the reader benefits from the clarity and narrative sensitivity that defined Press\u2019s career. By capturing the complex interplay of family honor, tragic romance, and historical legacy inherent in the original manuscript, she ensured that the saga remained as compelling for modern readers as it was for its medieval audience. Her scholarly contributions remain a testament to her enduring commitment to preserving the integrity and spirit of the Icelandic sagas, cementing her legacy as a vital voice in the history of literary translation.",
       "wiki": "Muriel Press"
     }
   }

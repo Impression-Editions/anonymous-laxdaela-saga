@@ -197,10 +197,12 @@
 			<item href="fonts/SortsMillGoudy-Regular.woff2" id="SortsMillGoudy-Regular.woff2" media-type="font/woff2"/>
 		<item href="fonts/SortsMillGoudy-Italic.woff2" id="SortsMillGoudy-Italic.woff2" media-type="font/woff2"/>
 		<item href="fonts/LeagueSpartan-Bold.woff2" id="LeagueSpartan-Bold.woff2" media-type="font/woff2"/>
+			<item href="text/frontispiece.xhtml" id="frontispiece.xhtml" media-type="application/xhtml+xml" properties="svg"/>
 	</manifest>
 	<spine>
-		<itemref idref="imprint.xhtml"/>
 		<itemref idref="titlepage.xhtml"/>
+		<itemref idref="frontispiece.xhtml"/>
+		<itemref idref="imprint.xhtml"/>
 		<itemref idref="halftitle.xhtml"/>
 		<itemref idref="chap-i.xhtml"/>
 		<itemref idref="ketills-family.xhtml"/>
