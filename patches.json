@@ -143,6 +143,13 @@
       "find": "#noteref-65-0\"",
       "replace": "#noteref-65-9\"",
       "action": "replace"
+    },
+    {
+      "file": "src/epub/text/endnotes.xhtml",
+      "action": "replace",
+      "find": "</li>\n\t\t\t</ol>",
+      "replace": "</li>\n\t\t\t<li id=\"note-65-10\"><p>Helmet-stems, those who upbear the helmet = men, specially warriors. <a href=\"chap-lxv.xhtml#noteref-65-10\">↩</a></p>\n\t\t\t</li>\n\t\t\t</ol>",
+      "reason": "Add missing 10th endnote"
     }
   ]
 }
