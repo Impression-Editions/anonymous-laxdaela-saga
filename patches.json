@@ -7,20 +7,10 @@
       "reason": "Merge interlude content into chapter I"
     },
     {
-      "file": "src/epub/text/ketills-family.xhtml",
-      "action": "delete",
-      "reason": "Merged into chap-i.xhtml"
-    },
-    {
       "file": "src/epub/text/chap-iii.xhtml",
       "action": "merge",
       "source": "src/epub/text/bjorn-iceland.xhtml",
       "reason": "Merge interlude content into chapter III"
-    },
-    {
-      "file": "src/epub/text/bjorn-iceland.xhtml",
-      "action": "delete",
-      "reason": "Merged into chap-iii.xhtml"
     },
     {
       "file_pattern": "src/epub/text/chap-*.xhtml",
@@ -35,121 +25,6 @@
       "pattern": "<span class=\"sidenote\">[^<]*</span>",
       "replace": "",
       "reason": "Remove PG sidenote markers (no bold wrapper)"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-20-0\"",
-      "replace": "id=\"note-20-1\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-24-0\"",
-      "replace": "id=\"note-24-2\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-35-0\"",
-      "replace": "id=\"note-35-3\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-37-0\"",
-      "replace": "id=\"note-37-4\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-43-0\"",
-      "replace": "id=\"note-43-5\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-48-0\"",
-      "replace": "id=\"note-48-6\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-55-0\"",
-      "replace": "id=\"note-55-7\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-61-0\"",
-      "replace": "id=\"note-61-8\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "id=\"note-65-0\"",
-      "replace": "id=\"note-65-9\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-20-0\"",
-      "replace": "#noteref-20-1\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-24-0\"",
-      "replace": "#noteref-24-2\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-35-0\"",
-      "replace": "#noteref-35-3\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-37-0\"",
-      "replace": "#noteref-37-4\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-43-0\"",
-      "replace": "#noteref-43-5\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-48-0\"",
-      "replace": "#noteref-48-6\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-55-0\"",
-      "replace": "#noteref-55-7\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-61-0\"",
-      "replace": "#noteref-61-8\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "find": "#noteref-65-0\"",
-      "replace": "#noteref-65-9\"",
-      "action": "replace"
-    },
-    {
-      "file": "src/epub/text/endnotes.xhtml",
-      "action": "replace",
-      "find": "</li>\n\t\t\t</ol>",
-      "replace": "</li>\n\t\t\t<li id=\"note-65-10\"><p>Helmet-stems, those who upbear the helmet = men, specially warriors. <a href=\"chap-lxv.xhtml#noteref-65-10\">↩</a></p>\n\t\t\t</li>\n\t\t\t</ol>",
-      "reason": "Add missing 10th endnote"
     },
     {
       "file_pattern": "src/epub/text/imprint.xhtml",
