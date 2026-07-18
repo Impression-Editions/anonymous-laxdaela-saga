@@ -7,7 +7,7 @@
   "has_illustrations": true,
   "illustration_count": 3,
   "preserve_spelling": true,
-  "original_year": null,
+  "original_year": 1245,
   "gutendex_subjects": [
     "Sagas -- Translations into English",
     "PT"
@@ -17,8 +17,11 @@
   "llm_batch_size": 5,
   "proofread_chapters": 2,
   "spine_order": null,
-  "dc_description": null,
-  "dc_subject": null,
+  "dc_description": "Written around 1245 by an anonymous author, Laxdæla Saga is one of the Icelanders' sagas, tracing the lives of the inhabitants of the Laxárdalr valley in western Iceland across several generations. It is distinguished among sagas by its focus on character psychology, its treatment of love and honor, and the prominent role it gives to women—particularly Guðrún Ósvífsdóttir, whose famous final words \"I was worst to the one I loved most\" are among the most quoted lines in medieval literature. This translation by Muriel A. C. Press was originally published in 1899 as part of the Temple Classics series.",
+  "dc_subject": [
+    "Icelandic literature—Translations into English (LCSH)",
+    "Sagas (LCSH)"
+  ],
   "pg_images": [
     {
       "filename": "img_01.jpg",
