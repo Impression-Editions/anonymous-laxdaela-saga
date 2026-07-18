@@ -291,11 +291,8 @@
 		<itemref idref="chap-lxxvii.xhtml"/>
 		<itemref idref="chap-lxxviii.xhtml"/>
 		<itemref idref="appendix.xhtml"/>
-		<itemref idref="bjorn-iceland.xhtml"/>
-		<itemref idref="ketills-family.xhtml"/>
-		<itemref idref="permissions.xhtml"/>
-		<itemref idref="uncopyright.xhtml"/>
 		<itemref idref="about-the-translator.xhtml"/>
 		<itemref idref="endnotes.xhtml"/>
-	</spine>
+		<itemref idref="permissions.xhtml"/>
+</spine>
 </package>
